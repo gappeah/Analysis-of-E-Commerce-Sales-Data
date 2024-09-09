@@ -1,0 +1,1001 @@
+sale_id,sale_date,store_location,product_category,sales,customer_id,discount_applied,payment_method
+1,2023-04-13,Chicago,Clothing,1704.0,221,15,PayPal
+2,2023-12-15,Chicago,Home Goods,1254.0,231,5,Credit Card
+3,2023-09-28,New York,Clothing,1722.0,53,0,Cash
+4,2023-04-17,Los Angeles,Clothing,,295,20,PayPal
+5,2023-03-13,Los Angeles,Home Goods,,321,15,Cash
+6,2023-07-08,Los Angeles,Clothing,404.0,401,0,Gift Card
+7,2023-01-21,New York,Home Goods,470.0,233,0,Gift Card
+8,2023-04-13,Chicago,Home Goods,1980.0,158,20,Credit Card
+9,2023-05-02,Los Angeles,Clothing,952.0,437,15,Gift Card
+10,2023-08-03,Los Angeles,Clothing,483.0,269,0,PayPal
+11,2023-11-27,New York,Electronics,544.0,21,0,Gift Card
+12,2023-03-29,Los Angeles,Home Goods,unknown,403,15,Credit Card
+13,2023-04-10,New York,Electronics,260.0,53,10,Cash
+14,2023-12-26,Chicago,Clothing,1301.0,275,0,Cash
+15,2023-06-01,New York,Electronics,728.0,313,5,Gift Card
+16,2023-05-11,New York,Home Goods,1831.0,281,15,PayPal
+17,2023-05-30,New York,Electronics,994.0,214,0,Credit Card
+18,2023-11-05,New York,Home Goods,unknown,31,20,PayPal
+19,2023-09-15,Chicago,Clothing,1116.0,337,5,Credit Card
+20,2023-12-10,Chicago,Clothing,426.0,183,0,Gift Card
+21,2023-10-21,Los Angeles,Home Goods,697.0,23,5,Credit Card
+22,2023-07-11,Chicago,Clothing,1114.0,32,5,Credit Card
+23,2023-10-04,Chicago,Clothing,unknown,446,10,Gift Card
+24,2023-06-10,Los Angeles,Clothing,692.0,74,5,PayPal
+25,2023-11-10,Chicago,Clothing,1787.0,10,10,Gift Card
+26,2023-01-22,New York,Home Goods,1696.0,484,15,Credit Card
+27,2023-09-10,New York,Electronics,672.0,456,10,Gift Card
+28,2023-08-24,Los Angeles,Electronics,1477.0,54,20,Credit Card
+29,2023-12-11,Los Angeles,Clothing,,52,0,Gift Card
+30,2023-02-18,Los Angeles,Electronics,1053.0,148,15,Cash
+31,2023-02-28,New York,Electronics,142.0,160,15,Cash
+32,2023-06-19,Chicago,Clothing,1804.0,370,20,Gift Card
+33,2023-07-07,New York,Clothing,,14,10,PayPal
+34,2023-09-28,Los Angeles,Electronics,unknown,178,0,Credit Card
+35,2023-07-09,Chicago,Home Goods,276.0,412,10,Cash
+36,2023-06-24,Chicago,Clothing,628.0,366,5,PayPal
+37,2023-02-20,New York,Home Goods,1733.0,500,10,Credit Card
+38,2023-12-30,Los Angeles,Electronics,,53,15,Cash
+39,2023-02-24,New York,Clothing,,408,0,Cash
+40,2023-09-01,Chicago,Home Goods,297.0,335,10,Gift Card
+41,2023-11-16,New York,Clothing,709.0,22,0,Credit Card
+42,2023-05-11,New York,Electronics,1700.0,30,0,PayPal
+43,2023-11-03,Los Angeles,Home Goods,941.0,191,5,PayPal
+44,2023-05-15,Los Angeles,Electronics,952.0,260,5,PayPal
+45,2023-01-21,Chicago,Electronics,1640.0,205,15,Credit Card
+46,2023-11-25,New York,Clothing,1637.0,59,20,PayPal
+47,2023-06-16,New York,Home Goods,121.0,471,0,PayPal
+48,2023-10-01,New York,Electronics,1235.0,264,20,PayPal
+49,2023-03-30,Chicago,Electronics,1180.0,466,15,Gift Card
+50,2023-11-12,Chicago,Home Goods,1189.0,12,0,Gift Card
+51,2023-01-14,Los Angeles,Electronics,941.0,119,0,Credit Card
+52,2023-08-30,Los Angeles,Electronics,197.0,415,20,Credit Card
+53,2023-09-22,Los Angeles,Home Goods,1267.0,462,10,PayPal
+54,2023-12-12,New York,Home Goods,534.0,290,5,Gift Card
+55,2023-02-22,New York,Home Goods,736.0,338,10,Cash
+56,2023-12-06,Los Angeles,Home Goods,1802.0,248,20,Cash
+57,2023-04-02,New York,Clothing,1209.0,354,5,PayPal
+58,2023-09-21,Los Angeles,Home Goods,687.0,127,10,PayPal
+59,2023-02-04,Chicago,Clothing,443.0,75,5,Gift Card
+60,2023-07-25,Los Angeles,Clothing,,361,0,Gift Card
+61,2023-03-22,Chicago,Clothing,unknown,204,10,Gift Card
+62,2023-02-19,New York,Electronics,1773.0,49,5,Credit Card
+63,2023-12-26,Los Angeles,Clothing,710.0,79,5,Credit Card
+64,2023-01-02,New York,Clothing,1827.0,441,5,PayPal
+65,2023-02-23,Chicago,Electronics,342.0,479,10,Credit Card
+66,2023-04-16,Chicago,Electronics,1954.0,241,15,Gift Card
+67,2023-09-17,Chicago,Electronics,660.0,349,10,Gift Card
+68,2023-11-06,New York,Home Goods,1059.0,154,20,Credit Card
+69,2023-07-10,New York,Electronics,131.0,274,10,Cash
+70,2023-08-06,New York,Electronics,490.0,96,5,PayPal
+71,2023-02-13,New York,Clothing,376.0,214,0,Cash
+72,2023-06-11,Chicago,Electronics,,294,10,PayPal
+73,2023-07-21,Chicago,Home Goods,1277.0,209,10,Cash
+74,2023-09-27,Los Angeles,Electronics,482.0,343,5,Credit Card
+75,2023-12-17,Los Angeles,Home Goods,1191.0,88,0,PayPal
+76,2023-10-31,New York,Electronics,983.0,306,0,PayPal
+77,2023-09-28,Chicago,Electronics,,264,20,PayPal
+78,2023-08-03,Chicago,Electronics,1778.0,425,10,Gift Card
+79,2023-09-09,Chicago,Electronics,475.0,390,0,Gift Card
+80,2023-07-09,Los Angeles,Home Goods,843.0,325,0,Cash
+81,2023-10-23,Los Angeles,Home Goods,312.0,428,15,Credit Card
+82,2023-08-01,Chicago,Clothing,178.0,377,15,Gift Card
+83,2023-07-27,Chicago,Home Goods,unknown,320,0,PayPal
+84,2023-08-25,Chicago,Electronics,727.0,157,20,Gift Card
+85,2023-12-04,Los Angeles,Clothing,703.0,156,0,Credit Card
+86,2023-02-22,Chicago,Clothing,,139,5,Gift Card
+87,2023-10-07,Chicago,Clothing,1504.0,121,10,PayPal
+88,2023-08-05,New York,Electronics,1100.0,65,20,Cash
+89,2023-09-09,New York,Home Goods,779.0,107,5,PayPal
+90,2023-07-07,Los Angeles,Electronics,157.0,147,20,Credit Card
+91,2023-02-10,Chicago,Clothing,,137,5,Cash
+92,2023-06-06,Chicago,Electronics,1149.0,411,10,Gift Card
+93,2023-01-15,New York,Electronics,980.0,162,10,Gift Card
+94,2023-10-28,Los Angeles,Home Goods,546.0,428,15,Gift Card
+95,2023-03-06,New York,Home Goods,165.0,452,5,Cash
+96,2023-12-11,New York,Clothing,1883.0,100,15,PayPal
+97,2023-11-23,New York,Electronics,1377.0,338,5,Cash
+98,2023-01-09,New York,Electronics,1167.0,399,15,Cash
+99,2023-12-10,Chicago,Home Goods,1220.0,307,10,Credit Card
+100,2023-05-09,Chicago,Electronics,1677.0,141,20,Cash
+101,2023-05-16,New York,Electronics,1111.0,83,15,Gift Card
+102,2023-03-04,Los Angeles,Electronics,,177,5,PayPal
+103,2023-05-19,Los Angeles,Home Goods,873.0,198,5,PayPal
+104,2023-03-22,Los Angeles,Clothing,778.0,112,10,PayPal
+105,2023-06-12,Los Angeles,Clothing,1559.0,56,5,Gift Card
+106,2023-10-16,New York,Electronics,1914.0,460,0,Gift Card
+107,2023-09-18,Chicago,Clothing,700.0,179,20,Gift Card
+108,2023-08-19,Los Angeles,Home Goods,478.0,421,15,Gift Card
+109,2023-02-10,New York,Home Goods,1301.0,401,20,Gift Card
+110,2023-01-28,Los Angeles,Clothing,1550.0,186,10,Cash
+111,2023-05-15,Los Angeles,Clothing,808.0,471,15,Gift Card
+112,2023-07-20,New York,Electronics,406.0,218,15,Gift Card
+113,2023-11-24,Chicago,Clothing,878.0,413,0,Gift Card
+114,2023-09-25,Chicago,Electronics,603.0,417,10,Gift Card
+115,2023-02-02,New York,Electronics,367.0,316,5,PayPal
+116,2023-02-17,Chicago,Home Goods,1709.0,475,0,Gift Card
+117,2023-03-03,New York,Home Goods,107.0,217,0,Cash
+118,2023-08-04,New York,Home Goods,607.0,120,20,Cash
+119,2023-10-20,New York,Home Goods,575.0,439,20,Cash
+120,2023-04-09,Chicago,Clothing,1420.0,394,20,Credit Card
+121,2023-06-21,New York,Home Goods,263.0,175,0,PayPal
+122,2023-12-26,Los Angeles,Clothing,584.0,23,5,Gift Card
+123,2023-08-02,Chicago,Home Goods,1720.0,213,15,Credit Card
+124,2023-02-04,Chicago,Clothing,unknown,405,20,Gift Card
+125,2023-08-15,Chicago,Electronics,666.0,235,5,Credit Card
+126,2023-04-11,Chicago,Clothing,1004.0,13,10,Credit Card
+127,2023-05-11,Los Angeles,Clothing,658.0,101,20,Cash
+128,2023-09-14,Chicago,Home Goods,337.0,417,15,Cash
+129,2023-01-05,Chicago,Clothing,1227.0,24,10,Credit Card
+130,2023-08-06,New York,Electronics,1333.0,364,10,Cash
+131,2023-09-12,Chicago,Electronics,653.0,11,15,Credit Card
+132,2023-12-25,Los Angeles,Home Goods,927.0,273,20,PayPal
+133,2023-10-10,Los Angeles,Electronics,,452,0,Cash
+134,2023-07-26,Los Angeles,Clothing,1577.0,431,15,Cash
+135,2023-01-15,Los Angeles,Electronics,1391.0,281,15,Cash
+136,2023-12-12,Chicago,Home Goods,,94,15,PayPal
+137,2023-02-11,Chicago,Clothing,unknown,201,10,Credit Card
+138,2023-06-28,Los Angeles,Home Goods,947.0,21,5,Gift Card
+139,2023-03-04,Los Angeles,Clothing,,340,0,Cash
+140,2023-12-18,Chicago,Electronics,976.0,467,20,Credit Card
+141,2023-08-19,Los Angeles,Home Goods,358.0,211,20,PayPal
+142,2023-08-29,New York,Home Goods,382.0,140,5,Gift Card
+143,2023-02-21,Los Angeles,Clothing,1749.0,293,15,Cash
+144,2023-04-06,Los Angeles,Home Goods,1998.0,298,0,PayPal
+145,2023-08-10,New York,Clothing,139.0,401,20,PayPal
+146,2023-08-19,New York,Clothing,585.0,101,20,Gift Card
+147,2023-08-25,Chicago,Clothing,1028.0,304,15,Credit Card
+148,2023-05-23,Chicago,Clothing,319.0,359,5,Cash
+149,2023-06-20,New York,Electronics,1252.0,28,0,Cash
+150,2023-01-29,New York,Clothing,1114.0,41,5,Credit Card
+151,2023-02-05,Chicago,Home Goods,1123.0,355,5,Credit Card
+152,2023-01-13,Los Angeles,Electronics,1643.0,303,0,Credit Card
+153,2023-06-09,New York,Home Goods,712.0,496,0,Gift Card
+154,2023-11-23,Chicago,Electronics,1027.0,146,20,Gift Card
+155,2023-07-06,Los Angeles,Clothing,787.0,256,20,Cash
+156,2023-08-31,New York,Electronics,,462,0,Gift Card
+157,2023-03-27,Los Angeles,Electronics,unknown,227,10,PayPal
+158,2023-10-11,Chicago,Home Goods,359.0,236,20,Cash
+159,2023-03-07,New York,Home Goods,1089.0,361,10,Gift Card
+160,2023-06-19,Los Angeles,Clothing,unknown,380,0,Credit Card
+161,2023-02-14,New York,Electronics,465.0,455,20,PayPal
+162,2023-03-03,Los Angeles,Electronics,1881.0,489,5,Credit Card
+163,2023-05-14,Chicago,Electronics,,13,0,Cash
+164,2023-10-11,Chicago,Clothing,643.0,210,15,Credit Card
+165,2023-01-28,New York,Clothing,748.0,229,10,Gift Card
+166,2023-04-18,Los Angeles,Clothing,1647.0,397,0,Gift Card
+167,2023-02-13,New York,Clothing,,100,0,Cash
+168,2023-12-06,New York,Clothing,1139.0,31,20,Credit Card
+169,2023-10-13,Los Angeles,Home Goods,1252.0,386,20,Cash
+170,2023-11-27,Los Angeles,Electronics,674.0,16,20,Credit Card
+171,2023-05-08,Los Angeles,Electronics,1232.0,137,15,PayPal
+172,2023-12-14,Chicago,Electronics,1112.0,329,20,Gift Card
+173,2023-08-19,New York,Electronics,1656.0,166,0,Cash
+174,2023-07-09,New York,Electronics,769.0,459,20,PayPal
+175,2023-08-13,Chicago,Electronics,368.0,310,5,PayPal
+176,2023-10-10,Los Angeles,Electronics,1285.0,440,20,Cash
+177,2023-05-01,Chicago,Electronics,1383.0,470,15,Cash
+178,2023-04-26,Chicago,Home Goods,,481,5,PayPal
+179,2023-08-21,Chicago,Electronics,1225.0,100,0,Credit Card
+180,2023-09-16,New York,Home Goods,1629.0,109,0,PayPal
+181,2023-12-25,Chicago,Clothing,1858.0,343,10,Cash
+182,2023-07-17,New York,Electronics,1694.0,173,5,PayPal
+183,2023-05-17,New York,Clothing,346.0,237,10,Credit Card
+184,2023-11-14,New York,Clothing,1763.0,162,5,Gift Card
+185,2023-06-14,Los Angeles,Clothing,1918.0,393,5,Gift Card
+186,2023-08-13,New York,Home Goods,1960.0,216,15,PayPal
+187,2023-11-03,New York,Clothing,1660.0,264,10,Credit Card
+188,2023-08-22,Los Angeles,Clothing,230.0,263,15,Gift Card
+189,2023-06-21,New York,Clothing,452.0,292,5,PayPal
+190,2023-06-01,Chicago,Electronics,unknown,274,0,PayPal
+191,2023-11-11,Chicago,Electronics,1916.0,3,5,Credit Card
+192,2023-06-09,New York,Home Goods,1029.0,28,15,Cash
+193,2023-04-06,Los Angeles,Home Goods,1789.0,326,10,PayPal
+194,2023-08-21,Chicago,Electronics,1505.0,492,10,Cash
+195,2023-06-29,Los Angeles,Home Goods,unknown,428,15,Cash
+196,2023-04-23,Los Angeles,Electronics,744.0,149,10,Gift Card
+197,2023-11-14,Chicago,Clothing,326.0,28,20,Cash
+198,2023-02-21,Los Angeles,Clothing,800.0,488,0,Credit Card
+199,2023-09-25,Chicago,Home Goods,1599.0,310,0,Gift Card
+200,2023-10-22,Los Angeles,Electronics,1600.0,438,0,Gift Card
+201,2023-04-23,Chicago,Electronics,364.0,65,10,Gift Card
+202,2023-04-11,New York,Home Goods,1495.0,356,10,PayPal
+203,2023-04-23,Chicago,Electronics,1609.0,21,5,PayPal
+204,2023-03-22,Chicago,Clothing,1557.0,252,5,Cash
+205,2023-07-06,Chicago,Home Goods,745.0,235,0,Gift Card
+206,2023-04-23,Chicago,Home Goods,310.0,227,20,Gift Card
+207,2023-01-02,Los Angeles,Electronics,1695.0,13,5,Credit Card
+208,2023-05-10,New York,Home Goods,1500.0,313,5,Cash
+209,2023-08-08,Chicago,Electronics,1518.0,49,10,Credit Card
+210,2023-02-23,Los Angeles,Electronics,,118,20,Cash
+211,2023-12-09,New York,Electronics,1042.0,54,0,Cash
+212,2023-08-12,New York,Electronics,1487.0,138,5,PayPal
+213,2023-08-13,New York,Electronics,1999.0,53,20,PayPal
+214,2023-05-06,New York,Home Goods,556.0,44,20,Credit Card
+215,2023-05-10,Chicago,Clothing,824.0,303,0,Cash
+216,2023-02-22,Chicago,Clothing,1851.0,53,20,Gift Card
+217,2023-06-21,Los Angeles,Home Goods,1349.0,74,20,PayPal
+218,2023-08-06,Los Angeles,Home Goods,1081.0,46,20,Gift Card
+219,2023-06-09,Los Angeles,Clothing,1254.0,13,5,Credit Card
+220,2023-07-17,New York,Clothing,687.0,165,0,PayPal
+221,2023-09-04,New York,Clothing,575.0,102,20,PayPal
+222,2023-11-20,Chicago,Clothing,unknown,280,20,Cash
+223,2023-07-22,New York,Clothing,1085.0,258,5,Credit Card
+224,2023-07-03,New York,Electronics,1400.0,470,0,Cash
+225,2023-05-03,New York,Home Goods,255.0,337,10,PayPal
+226,2023-09-12,Los Angeles,Electronics,1883.0,356,5,Credit Card
+227,2023-10-21,Los Angeles,Clothing,1341.0,398,0,PayPal
+228,2023-10-07,Chicago,Clothing,unknown,138,20,Credit Card
+229,2023-11-21,New York,Clothing,1540.0,163,0,PayPal
+230,2023-04-08,New York,Electronics,1080.0,409,0,Gift Card
+231,2023-07-17,Chicago,Electronics,1798.0,387,0,Gift Card
+232,2023-08-28,New York,Clothing,1815.0,111,10,Cash
+233,2023-05-24,New York,Electronics,645.0,102,0,Gift Card
+234,2023-04-07,Los Angeles,Electronics,unknown,17,10,PayPal
+235,2023-07-20,Chicago,Clothing,406.0,268,20,PayPal
+236,2023-05-04,Chicago,Electronics,1042.0,182,10,Gift Card
+237,2023-07-06,Chicago,Home Goods,437.0,372,20,Cash
+238,2023-11-22,Chicago,Home Goods,1437.0,24,20,Gift Card
+239,2023-12-15,Los Angeles,Home Goods,1198.0,29,10,Credit Card
+240,2023-09-16,Los Angeles,Home Goods,,171,5,Credit Card
+241,2023-05-28,New York,Clothing,378.0,409,15,Credit Card
+242,2023-09-09,New York,Clothing,1299.0,228,0,Gift Card
+243,2023-12-12,New York,Clothing,995.0,378,15,Gift Card
+244,2023-05-27,New York,Home Goods,1785.0,188,0,Gift Card
+245,2023-05-28,Los Angeles,Home Goods,372.0,346,0,Credit Card
+246,2023-12-18,Chicago,Electronics,,230,20,Cash
+247,2023-07-18,Los Angeles,Electronics,719.0,321,0,PayPal
+248,2023-11-04,New York,Home Goods,1774.0,340,0,Gift Card
+249,2023-05-08,Los Angeles,Home Goods,961.0,119,10,Cash
+250,2023-02-08,Chicago,Home Goods,1906.0,156,15,PayPal
+251,2023-12-04,Chicago,Home Goods,1982.0,272,10,PayPal
+252,2023-12-26,Los Angeles,Electronics,1030.0,175,0,PayPal
+253,2023-05-09,Los Angeles,Home Goods,388.0,465,20,Cash
+254,2023-09-24,Los Angeles,Electronics,823.0,104,10,Cash
+255,2023-05-31,New York,Home Goods,,92,10,Credit Card
+256,2023-10-25,Los Angeles,Home Goods,371.0,186,5,Cash
+257,2023-04-09,Los Angeles,Home Goods,unknown,460,0,Cash
+258,2023-09-20,Los Angeles,Electronics,582.0,283,20,Cash
+259,2023-09-09,Chicago,Electronics,1035.0,181,10,PayPal
+260,2023-05-24,Chicago,Clothing,347.0,170,10,Gift Card
+261,2023-12-12,New York,Home Goods,255.0,187,20,Credit Card
+262,2023-04-22,New York,Clothing,1170.0,175,0,Gift Card
+263,2023-03-01,Chicago,Clothing,553.0,222,5,Gift Card
+264,2023-01-02,Chicago,Electronics,unknown,233,10,Cash
+265,2023-10-31,Chicago,Electronics,1783.0,162,5,Credit Card
+266,2023-09-11,Los Angeles,Clothing,223.0,421,15,Gift Card
+267,2023-05-20,Los Angeles,Home Goods,100.0,134,0,Gift Card
+268,2023-02-06,Chicago,Electronics,1067.0,391,15,Credit Card
+269,2023-06-09,Los Angeles,Home Goods,1882.0,480,15,Cash
+270,2023-01-09,Los Angeles,Home Goods,954.0,224,15,Gift Card
+271,2023-08-21,New York,Clothing,739.0,153,0,PayPal
+272,2023-04-09,Chicago,Clothing,290.0,33,0,Gift Card
+273,2023-05-27,Chicago,Clothing,1702.0,55,20,PayPal
+274,2023-10-31,Los Angeles,Clothing,615.0,442,5,Cash
+275,2023-07-27,Chicago,Electronics,541.0,7,5,Gift Card
+276,2023-05-11,New York,Electronics,,244,20,Credit Card
+277,2023-06-01,New York,Clothing,1929.0,313,20,Credit Card
+278,2023-02-23,New York,Electronics,242.0,126,15,Gift Card
+279,2023-04-30,Chicago,Clothing,1314.0,12,20,Cash
+280,2023-06-10,Chicago,Home Goods,632.0,16,10,Cash
+281,2023-04-26,Chicago,Home Goods,,208,5,Credit Card
+282,2023-03-16,Chicago,Home Goods,1436.0,43,20,Gift Card
+283,2023-04-23,Chicago,Clothing,1752.0,373,10,Cash
+284,2023-04-14,New York,Home Goods,1048.0,484,10,Credit Card
+285,2023-12-06,Los Angeles,Electronics,1425.0,461,10,PayPal
+286,2023-09-11,New York,Home Goods,1777.0,135,10,Gift Card
+287,2023-08-15,Chicago,Home Goods,559.0,228,15,PayPal
+288,2023-04-22,New York,Home Goods,1524.0,111,10,PayPal
+289,2023-04-09,Chicago,Electronics,650.0,307,15,Cash
+290,2023-06-02,Chicago,Clothing,492.0,457,15,Cash
+291,2023-12-15,New York,Electronics,1990.0,160,10,Cash
+292,2023-12-04,Chicago,Clothing,1887.0,331,5,Gift Card
+293,2023-07-13,Los Angeles,Clothing,,264,10,PayPal
+294,2023-11-06,Chicago,Home Goods,1330.0,225,10,Gift Card
+295,2023-06-12,Los Angeles,Clothing,309.0,471,10,Cash
+296,2023-07-27,Los Angeles,Electronics,1238.0,217,5,PayPal
+297,2023-06-18,Chicago,Electronics,1860.0,456,0,Gift Card
+298,2023-06-10,New York,Clothing,745.0,45,0,Gift Card
+299,2023-03-09,Los Angeles,Home Goods,1374.0,214,15,Credit Card
+300,2023-10-16,New York,Home Goods,318.0,59,15,Gift Card
+301,2023-10-04,Los Angeles,Electronics,506.0,132,5,Cash
+302,2023-10-31,Chicago,Home Goods,1566.0,104,20,Gift Card
+303,2023-05-15,Chicago,Clothing,1726.0,195,0,PayPal
+304,2023-07-14,Los Angeles,Clothing,,413,15,Gift Card
+305,2023-05-08,Chicago,Electronics,987.0,489,0,Credit Card
+306,2023-02-02,Los Angeles,Clothing,657.0,157,5,PayPal
+307,2023-06-25,Chicago,Electronics,649.0,98,5,PayPal
+308,2023-01-22,New York,Clothing,241.0,226,20,Credit Card
+309,2023-08-26,Chicago,Electronics,711.0,412,20,Cash
+310,2023-06-07,New York,Home Goods,600.0,205,5,PayPal
+311,2023-02-07,Chicago,Clothing,939.0,79,15,Cash
+312,2023-08-18,New York,Clothing,801.0,124,0,PayPal
+313,2023-12-31,Chicago,Electronics,1670.0,471,10,PayPal
+314,2023-02-20,New York,Electronics,1782.0,428,20,Cash
+315,2023-09-21,Los Angeles,Clothing,1665.0,218,10,PayPal
+316,2023-10-10,Los Angeles,Electronics,1969.0,4,15,Cash
+317,2023-01-27,New York,Clothing,1630.0,90,20,Credit Card
+318,2023-08-14,Chicago,Home Goods,695.0,104,10,Cash
+319,2023-10-04,New York,Electronics,380.0,393,15,Credit Card
+320,2023-10-13,Chicago,Clothing,523.0,119,0,PayPal
+321,2023-04-07,Los Angeles,Home Goods,955.0,133,15,Cash
+322,2023-10-11,Chicago,Home Goods,369.0,312,20,PayPal
+323,2023-11-13,Los Angeles,Clothing,253.0,96,5,Cash
+324,2023-10-31,Chicago,Electronics,713.0,468,0,Credit Card
+325,2023-05-27,Chicago,Clothing,1850.0,434,10,Credit Card
+326,2023-01-04,Chicago,Home Goods,761.0,331,20,Cash
+327,2023-02-04,New York,Clothing,182.0,143,5,Credit Card
+328,2023-07-11,New York,Electronics,1745.0,288,15,PayPal
+329,2023-02-18,Los Angeles,Home Goods,1046.0,28,5,PayPal
+330,2023-01-17,Los Angeles,Clothing,998.0,278,20,Gift Card
+331,2023-06-21,New York,Electronics,1549.0,233,20,Credit Card
+332,2023-08-08,Los Angeles,Home Goods,1398.0,17,5,PayPal
+333,2023-06-07,New York,Electronics,1836.0,59,15,Cash
+334,2023-02-15,Chicago,Home Goods,383.0,90,5,Credit Card
+335,2023-01-06,Los Angeles,Clothing,1079.0,492,20,PayPal
+336,2023-04-09,Los Angeles,Electronics,272.0,199,20,Credit Card
+337,2023-08-21,New York,Home Goods,,362,10,Cash
+338,2023-02-06,Los Angeles,Electronics,1841.0,441,10,PayPal
+339,2023-10-07,Los Angeles,Electronics,1186.0,26,0,Gift Card
+340,2023-12-15,Chicago,Clothing,1196.0,25,20,Gift Card
+341,2023-10-29,Los Angeles,Electronics,862.0,394,10,Credit Card
+342,2023-06-30,Chicago,Home Goods,1759.0,301,5,Cash
+343,2023-04-05,New York,Home Goods,1498.0,339,15,PayPal
+344,2023-04-09,Los Angeles,Home Goods,732.0,267,5,Cash
+345,2023-07-07,Chicago,Home Goods,1631.0,461,15,PayPal
+346,2023-04-26,New York,Clothing,886.0,181,10,Credit Card
+347,2023-07-10,Los Angeles,Electronics,1042.0,456,0,PayPal
+348,2023-09-10,New York,Clothing,,360,5,Cash
+349,2023-06-10,Los Angeles,Electronics,497.0,68,5,Cash
+350,2023-09-13,New York,Electronics,,495,5,Credit Card
+351,2023-11-19,New York,Electronics,1033.0,351,15,Cash
+352,2023-05-08,Chicago,Clothing,1560.0,412,10,PayPal
+353,2023-01-18,New York,Electronics,1952.0,459,5,Credit Card
+354,2023-10-08,Los Angeles,Clothing,775.0,491,5,PayPal
+355,2023-08-11,Los Angeles,Home Goods,1035.0,321,0,Cash
+356,2023-02-23,Chicago,Home Goods,,49,0,Credit Card
+357,2023-02-27,Los Angeles,Electronics,385.0,175,10,PayPal
+358,2023-11-19,Los Angeles,Clothing,364.0,52,10,Cash
+359,2023-12-26,Los Angeles,Home Goods,419.0,102,20,Cash
+360,2023-06-23,New York,Clothing,,216,0,Gift Card
+361,2023-10-07,New York,Clothing,1499.0,438,20,Cash
+362,2023-04-24,Los Angeles,Electronics,919.0,188,15,PayPal
+363,2023-10-15,Chicago,Home Goods,188.0,57,20,Credit Card
+364,2023-12-08,New York,Electronics,1777.0,47,5,Gift Card
+365,2023-05-31,Chicago,Electronics,1326.0,159,20,Cash
+366,2023-05-07,Los Angeles,Home Goods,920.0,489,10,Cash
+367,2023-06-04,Los Angeles,Home Goods,1862.0,174,15,Cash
+368,2023-09-30,New York,Clothing,1100.0,242,5,PayPal
+369,2023-04-14,Los Angeles,Home Goods,433.0,282,20,Gift Card
+370,2023-10-26,New York,Clothing,321.0,241,15,PayPal
+371,2023-09-03,Los Angeles,Clothing,140.0,370,15,Gift Card
+372,2023-06-25,Los Angeles,Clothing,1831.0,5,5,Credit Card
+373,2023-02-08,New York,Home Goods,,84,20,PayPal
+374,2023-06-19,New York,Electronics,1087.0,308,15,PayPal
+375,2023-09-04,New York,Clothing,1899.0,361,15,Credit Card
+376,2023-01-26,Los Angeles,Electronics,613.0,459,0,Gift Card
+377,2023-12-21,Los Angeles,Electronics,1996.0,248,15,Cash
+378,2023-11-02,Chicago,Home Goods,,54,0,Credit Card
+379,2023-01-13,New York,Electronics,1745.0,161,20,Cash
+380,2023-11-12,Los Angeles,Electronics,,434,20,Cash
+381,2023-11-09,Los Angeles,Home Goods,1755.0,422,20,Credit Card
+382,2023-02-05,New York,Clothing,1250.0,411,10,Gift Card
+383,2023-06-22,Chicago,Electronics,1378.0,226,20,Cash
+384,2023-01-20,New York,Home Goods,794.0,15,15,Credit Card
+385,2023-11-17,Chicago,Electronics,1139.0,224,5,PayPal
+386,2023-09-21,Los Angeles,Electronics,576.0,61,0,PayPal
+387,2023-05-22,Chicago,Clothing,1185.0,122,10,PayPal
+388,2023-05-23,Los Angeles,Electronics,980.0,277,20,Credit Card
+389,2023-04-02,New York,Home Goods,531.0,46,20,PayPal
+390,2023-12-20,New York,Electronics,1793.0,453,5,Cash
+391,2023-11-18,New York,Clothing,367.0,390,5,PayPal
+392,2023-10-15,Chicago,Clothing,1158.0,294,10,PayPal
+393,2023-08-03,Los Angeles,Home Goods,,62,0,Cash
+394,2023-12-08,New York,Clothing,1699.0,86,20,PayPal
+395,2023-02-20,New York,Electronics,593.0,446,10,Cash
+396,2023-06-02,Los Angeles,Clothing,1685.0,210,15,PayPal
+397,2023-07-05,New York,Home Goods,1592.0,78,15,Cash
+398,2023-03-04,Los Angeles,Clothing,1890.0,202,10,PayPal
+399,2023-07-09,Los Angeles,Clothing,760.0,302,20,Cash
+400,2023-05-05,Los Angeles,Clothing,1448.0,397,10,Credit Card
+401,2023-05-30,Los Angeles,Home Goods,1427.0,223,20,Cash
+402,2023-11-10,Los Angeles,Clothing,1399.0,222,5,PayPal
+403,2023-02-27,Chicago,Clothing,1992.0,3,10,PayPal
+404,2023-12-08,New York,Electronics,1807.0,478,20,Gift Card
+405,2023-11-01,Chicago,Home Goods,1112.0,6,10,Cash
+406,2023-06-29,New York,Clothing,1324.0,93,10,Credit Card
+407,2023-06-19,Chicago,Home Goods,1568.0,8,20,Cash
+408,2023-11-22,Los Angeles,Clothing,unknown,428,20,Cash
+409,2023-09-28,New York,Clothing,1158.0,493,0,Credit Card
+410,2023-02-23,New York,Clothing,1076.0,235,10,Cash
+411,2023-04-11,Chicago,Electronics,581.0,108,15,Credit Card
+412,2023-09-21,Chicago,Electronics,827.0,161,10,Credit Card
+413,2023-02-22,New York,Electronics,579.0,209,10,Cash
+414,2023-03-01,Chicago,Home Goods,1188.0,240,20,Cash
+415,2023-04-18,Chicago,Home Goods,1131.0,331,10,PayPal
+416,2023-01-05,Chicago,Electronics,1424.0,333,10,PayPal
+417,2023-04-13,Los Angeles,Home Goods,442.0,50,15,Gift Card
+418,2023-07-15,Los Angeles,Clothing,1554.0,11,20,Gift Card
+419,2023-09-19,Chicago,Clothing,1547.0,351,10,Cash
+420,2023-12-31,Chicago,Clothing,431.0,156,5,Credit Card
+421,2023-12-16,Los Angeles,Electronics,,492,0,Gift Card
+422,2023-02-16,Los Angeles,Home Goods,1711.0,70,15,Cash
+423,2023-12-21,New York,Electronics,273.0,169,10,Gift Card
+424,2023-11-07,New York,Home Goods,658.0,272,5,Credit Card
+425,2023-11-04,Los Angeles,Clothing,626.0,68,10,Cash
+426,2023-05-24,Chicago,Electronics,1996.0,355,10,Credit Card
+427,2023-09-26,Chicago,Home Goods,unknown,252,20,Cash
+428,2023-05-04,Chicago,Home Goods,125.0,48,20,Gift Card
+429,2023-04-16,Chicago,Clothing,919.0,184,20,PayPal
+430,2023-06-07,New York,Electronics,704.0,320,5,Gift Card
+431,2023-05-27,Los Angeles,Electronics,505.0,187,10,Gift Card
+432,2023-05-25,Chicago,Electronics,331.0,90,0,PayPal
+433,2023-04-30,New York,Clothing,632.0,446,15,PayPal
+434,2023-11-15,Chicago,Electronics,1942.0,332,20,Cash
+435,2023-10-02,Los Angeles,Clothing,1673.0,139,20,Cash
+436,2023-04-02,New York,Clothing,1911.0,357,10,Credit Card
+437,2023-02-27,Los Angeles,Clothing,,89,10,Credit Card
+438,2023-12-12,Los Angeles,Home Goods,,274,5,Gift Card
+439,2023-08-17,New York,Electronics,278.0,19,5,PayPal
+440,2023-04-27,New York,Electronics,231.0,471,20,Credit Card
+441,2023-11-14,New York,Clothing,1946.0,311,10,Gift Card
+442,2023-10-06,New York,Clothing,1578.0,358,0,PayPal
+443,2023-05-07,New York,Electronics,447.0,374,15,Cash
+444,2023-05-09,New York,Clothing,639.0,466,10,Gift Card
+445,2023-02-27,New York,Electronics,871.0,154,10,Cash
+446,2023-05-02,Chicago,Home Goods,1529.0,390,5,Credit Card
+447,2023-01-01,Los Angeles,Clothing,175.0,260,15,Credit Card
+448,2023-08-27,New York,Electronics,678.0,108,20,PayPal
+449,2023-10-17,Chicago,Clothing,953.0,371,10,Gift Card
+450,2023-04-06,Chicago,Electronics,,285,20,Cash
+451,2023-05-06,Chicago,Electronics,293.0,59,10,PayPal
+452,2023-04-28,Los Angeles,Clothing,1285.0,125,20,Credit Card
+453,2023-02-17,New York,Home Goods,,354,15,Credit Card
+454,2023-03-30,Chicago,Electronics,1050.0,273,5,Gift Card
+455,2023-08-25,Los Angeles,Electronics,1484.0,107,15,Cash
+456,2023-09-29,Los Angeles,Electronics,1892.0,299,0,Gift Card
+457,2023-07-08,Los Angeles,Home Goods,1707.0,245,5,Cash
+458,2023-07-11,Chicago,Home Goods,1210.0,336,15,Cash
+459,2023-03-10,New York,Clothing,1385.0,450,0,Gift Card
+460,2023-10-05,Chicago,Home Goods,313.0,418,10,PayPal
+461,2023-12-15,Chicago,Clothing,,247,10,Gift Card
+462,2023-09-04,New York,Clothing,1845.0,8,20,Gift Card
+463,2023-03-17,New York,Home Goods,672.0,141,5,Credit Card
+464,2023-06-03,New York,Clothing,879.0,362,10,Credit Card
+465,2023-05-24,Los Angeles,Home Goods,361.0,8,5,Gift Card
+466,2023-03-27,New York,Clothing,829.0,478,10,Gift Card
+467,2023-07-04,Chicago,Home Goods,unknown,352,20,Credit Card
+468,2023-10-12,New York,Home Goods,1771.0,484,15,Cash
+469,2023-08-08,Chicago,Clothing,1590.0,495,20,Gift Card
+470,2023-03-10,Los Angeles,Electronics,unknown,94,0,PayPal
+471,2023-02-16,Chicago,Clothing,461.0,321,10,PayPal
+472,2023-04-04,Chicago,Home Goods,1572.0,427,0,PayPal
+473,2023-08-26,New York,Electronics,540.0,39,0,Gift Card
+474,2023-07-23,New York,Clothing,192.0,81,5,Cash
+475,2023-08-06,Chicago,Clothing,unknown,187,10,Cash
+476,2023-12-07,New York,Clothing,852.0,84,0,Credit Card
+477,2023-02-08,Los Angeles,Electronics,966.0,88,15,Gift Card
+478,2023-04-10,Los Angeles,Home Goods,,242,0,Cash
+479,2023-10-16,New York,Clothing,241.0,342,15,Gift Card
+480,2023-09-11,Los Angeles,Clothing,1414.0,93,5,Credit Card
+481,2023-08-10,New York,Clothing,unknown,86,0,Credit Card
+482,2023-12-23,Chicago,Clothing,848.0,44,20,Credit Card
+483,2023-01-23,Chicago,Clothing,unknown,137,5,PayPal
+484,2023-09-07,Los Angeles,Home Goods,1947.0,421,15,Gift Card
+485,2023-01-10,New York,Home Goods,1812.0,74,5,Credit Card
+486,2023-09-03,New York,Clothing,752.0,36,0,Gift Card
+487,2023-11-21,Los Angeles,Electronics,800.0,101,10,PayPal
+488,2023-04-10,Chicago,Home Goods,1097.0,476,10,PayPal
+489,2023-10-17,Los Angeles,Electronics,148.0,156,15,Credit Card
+490,2023-06-29,Chicago,Home Goods,,426,15,Credit Card
+491,2023-08-11,New York,Clothing,980.0,255,10,Cash
+492,2023-09-07,Chicago,Home Goods,1313.0,171,15,Gift Card
+493,2023-05-27,Los Angeles,Clothing,1259.0,469,5,Credit Card
+494,2023-04-06,New York,Home Goods,,216,20,Cash
+495,2023-09-14,Los Angeles,Clothing,503.0,170,20,Gift Card
+496,2023-11-21,Los Angeles,Clothing,991.0,252,5,Credit Card
+497,2023-01-04,Chicago,Clothing,964.0,360,20,Cash
+498,2023-01-16,Los Angeles,Clothing,701.0,322,0,Cash
+499,2023-10-07,Chicago,Electronics,1930.0,55,5,Gift Card
+500,2023-12-02,New York,Clothing,440.0,456,15,Cash
+501,2023-09-04,Chicago,Electronics,,432,5,Gift Card
+502,2023-09-15,New York,Electronics,803.0,91,10,Gift Card
+503,2023-06-09,Chicago,Clothing,417.0,278,15,Gift Card
+504,2023-12-06,Los Angeles,Electronics,717.0,101,10,PayPal
+505,2023-06-01,Chicago,Home Goods,1486.0,155,15,Cash
+506,2023-06-27,Chicago,Clothing,,377,20,Gift Card
+507,2023-06-12,New York,Electronics,481.0,349,5,Credit Card
+508,2023-02-02,Los Angeles,Clothing,332.0,451,0,PayPal
+509,2023-06-28,Chicago,Clothing,1900.0,364,15,PayPal
+510,2023-04-11,Los Angeles,Clothing,1467.0,141,15,Cash
+511,2023-09-25,Chicago,Electronics,1672.0,173,10,Gift Card
+512,2023-11-19,Chicago,Home Goods,916.0,10,20,Cash
+513,2023-03-06,Los Angeles,Home Goods,652.0,228,10,PayPal
+514,2023-06-17,Chicago,Electronics,unknown,265,10,Gift Card
+515,2023-11-26,Los Angeles,Clothing,,438,20,Credit Card
+516,2023-02-12,Chicago,Electronics,1912.0,248,0,Gift Card
+517,2023-02-13,New York,Electronics,,247,10,PayPal
+518,2023-10-12,Los Angeles,Electronics,1694.0,155,10,Credit Card
+519,2023-01-12,Chicago,Clothing,282.0,34,15,Gift Card
+520,2023-04-05,Chicago,Electronics,1164.0,499,20,Credit Card
+521,2023-10-29,New York,Clothing,1674.0,129,5,Credit Card
+522,2023-09-10,Los Angeles,Electronics,496.0,160,0,PayPal
+523,2023-08-30,Chicago,Home Goods,1827.0,89,0,Credit Card
+524,2023-02-04,New York,Electronics,878.0,93,20,Cash
+525,2023-08-03,Chicago,Electronics,1617.0,327,15,PayPal
+526,2023-12-03,Los Angeles,Home Goods,1782.0,241,15,Cash
+527,2023-03-31,Chicago,Clothing,1006.0,323,20,Credit Card
+528,2023-09-21,Chicago,Clothing,1456.0,468,15,Cash
+529,2023-04-03,Chicago,Electronics,226.0,404,0,Gift Card
+530,2023-03-31,Chicago,Home Goods,1681.0,117,0,Credit Card
+531,2023-04-25,New York,Clothing,1680.0,94,5,Gift Card
+532,2023-04-15,New York,Electronics,100.0,163,20,Cash
+533,2023-07-15,Los Angeles,Home Goods,1291.0,99,10,Gift Card
+534,2023-11-10,New York,Clothing,1743.0,113,10,Credit Card
+535,2023-04-24,New York,Clothing,unknown,359,5,Gift Card
+536,2023-03-16,Los Angeles,Home Goods,1455.0,91,5,Cash
+537,2023-08-05,New York,Home Goods,683.0,346,15,Cash
+538,2023-10-04,New York,Home Goods,555.0,206,5,Cash
+539,2023-09-06,Los Angeles,Home Goods,1056.0,17,5,Credit Card
+540,2023-06-13,Los Angeles,Electronics,1232.0,274,10,Cash
+541,2023-12-23,Los Angeles,Home Goods,1391.0,173,15,Credit Card
+542,2023-07-11,Chicago,Clothing,544.0,116,5,Gift Card
+543,2023-08-15,Chicago,Clothing,1363.0,349,5,Cash
+544,2023-06-26,Los Angeles,Electronics,1424.0,468,15,Gift Card
+545,2023-04-09,Los Angeles,Clothing,701.0,181,20,PayPal
+546,2023-02-05,Los Angeles,Clothing,202.0,91,15,Gift Card
+547,2023-04-06,Chicago,Home Goods,1087.0,82,10,PayPal
+548,2023-06-01,Chicago,Clothing,1373.0,324,20,Gift Card
+549,2023-05-31,New York,Electronics,1576.0,449,0,Credit Card
+550,2023-07-09,New York,Home Goods,619.0,114,15,Gift Card
+551,2023-08-12,Los Angeles,Home Goods,1276.0,257,10,Credit Card
+552,2023-02-06,Chicago,Electronics,958.0,58,20,Credit Card
+553,2023-09-25,Chicago,Home Goods,273.0,154,15,Cash
+554,2023-07-02,Chicago,Home Goods,1466.0,365,5,Credit Card
+555,2023-01-13,Los Angeles,Electronics,1793.0,404,15,PayPal
+556,2023-10-06,New York,Home Goods,1104.0,116,0,Cash
+557,2023-08-05,Los Angeles,Electronics,530.0,343,15,Cash
+558,2023-12-21,New York,Electronics,826.0,266,20,Gift Card
+559,2023-12-27,New York,Clothing,1812.0,315,20,Credit Card
+560,2023-10-13,Los Angeles,Clothing,1810.0,203,15,Credit Card
+561,2023-09-30,New York,Home Goods,1975.0,41,20,PayPal
+562,2023-03-03,New York,Home Goods,949.0,105,5,Gift Card
+563,2023-03-25,Chicago,Electronics,unknown,389,15,Gift Card
+564,2023-08-05,New York,Home Goods,1447.0,378,5,Cash
+565,2023-12-08,Los Angeles,Electronics,1089.0,193,5,Cash
+566,2023-07-06,Los Angeles,Electronics,1796.0,401,10,Cash
+567,2023-01-19,New York,Home Goods,unknown,278,15,PayPal
+568,2023-06-26,Chicago,Electronics,519.0,354,20,PayPal
+569,2023-04-10,Chicago,Clothing,693.0,237,5,Cash
+570,2023-08-21,New York,Home Goods,,425,10,Gift Card
+571,2023-03-17,New York,Clothing,,221,15,PayPal
+572,2023-09-22,Los Angeles,Home Goods,1874.0,68,15,Gift Card
+573,2023-10-11,New York,Electronics,,197,0,Gift Card
+574,2023-07-25,Chicago,Home Goods,,256,0,Credit Card
+575,2023-08-11,New York,Clothing,1207.0,139,5,Cash
+576,2023-02-21,Los Angeles,Electronics,,312,0,Credit Card
+577,2023-12-05,Los Angeles,Home Goods,1860.0,435,5,Cash
+578,2023-05-24,Los Angeles,Home Goods,431.0,149,20,Cash
+579,2023-03-10,Los Angeles,Home Goods,1501.0,99,5,Gift Card
+580,2023-04-09,Los Angeles,Clothing,1878.0,76,0,Cash
+581,2023-01-25,New York,Clothing,754.0,282,20,Gift Card
+582,2023-02-22,New York,Home Goods,140.0,371,0,Gift Card
+583,2023-05-31,New York,Electronics,1893.0,403,5,Cash
+584,2023-05-24,New York,Electronics,1058.0,109,10,Gift Card
+585,2023-02-26,Los Angeles,Clothing,1920.0,188,15,Gift Card
+586,2023-02-08,Chicago,Electronics,204.0,199,0,Gift Card
+587,2023-04-19,New York,Clothing,301.0,303,5,PayPal
+588,2023-06-30,Chicago,Home Goods,549.0,327,20,Gift Card
+589,2023-02-11,New York,Clothing,1942.0,154,0,PayPal
+590,2023-07-05,New York,Clothing,,40,0,PayPal
+591,2023-08-11,Chicago,Home Goods,1389.0,133,15,Gift Card
+592,2023-05-02,Los Angeles,Electronics,1009.0,405,5,Gift Card
+593,2023-05-13,New York,Clothing,309.0,462,10,PayPal
+594,2023-06-12,New York,Clothing,662.0,132,20,PayPal
+595,2023-08-03,New York,Home Goods,1241.0,279,5,Gift Card
+596,2023-08-09,Chicago,Electronics,812.0,362,20,Gift Card
+597,2023-08-23,Los Angeles,Clothing,,84,0,Cash
+598,2023-11-27,Chicago,Home Goods,1674.0,399,15,PayPal
+599,2023-05-26,Chicago,Clothing,1663.0,242,15,PayPal
+600,2023-08-27,Los Angeles,Home Goods,870.0,116,10,Cash
+601,2023-03-17,Chicago,Electronics,1207.0,109,15,PayPal
+602,2023-01-09,Los Angeles,Electronics,553.0,221,0,Credit Card
+603,2023-03-15,New York,Electronics,766.0,392,10,PayPal
+604,2023-09-10,Los Angeles,Electronics,728.0,41,5,Cash
+605,2023-08-18,New York,Clothing,1637.0,368,15,Credit Card
+606,2023-01-07,Chicago,Clothing,1728.0,147,10,Gift Card
+607,2023-06-23,Chicago,Electronics,unknown,112,0,Cash
+608,2023-05-21,New York,Electronics,486.0,103,20,Cash
+609,2023-06-17,Chicago,Electronics,,46,20,Gift Card
+610,2023-06-19,Los Angeles,Clothing,395.0,412,0,Cash
+611,2023-10-10,New York,Electronics,357.0,494,0,PayPal
+612,2023-05-02,Chicago,Electronics,1204.0,475,20,Gift Card
+613,2023-07-13,New York,Electronics,,324,10,Cash
+614,2023-01-05,Los Angeles,Home Goods,518.0,378,20,Gift Card
+615,2023-01-29,Los Angeles,Electronics,334.0,271,0,Gift Card
+616,2023-06-14,Chicago,Home Goods,1956.0,483,15,Gift Card
+617,2023-12-05,Los Angeles,Home Goods,1434.0,421,5,Credit Card
+618,2023-05-16,New York,Electronics,1936.0,385,15,Cash
+619,2023-12-31,Los Angeles,Home Goods,1085.0,195,15,Credit Card
+620,2023-11-17,New York,Electronics,1480.0,367,0,Cash
+621,2023-12-08,New York,Clothing,1336.0,280,20,PayPal
+622,2023-05-25,Los Angeles,Clothing,673.0,283,10,PayPal
+623,2023-11-23,Chicago,Clothing,148.0,40,15,PayPal
+624,2023-08-05,Los Angeles,Clothing,1250.0,447,20,Cash
+625,2023-10-28,New York,Home Goods,322.0,189,10,Gift Card
+626,2023-05-12,New York,Electronics,,164,15,Gift Card
+627,2023-10-19,Los Angeles,Electronics,1402.0,482,10,Credit Card
+628,2023-03-11,Chicago,Electronics,1531.0,477,20,Credit Card
+629,2023-09-09,Chicago,Clothing,unknown,24,5,PayPal
+630,2023-10-02,New York,Clothing,1417.0,24,20,Credit Card
+631,2023-12-30,New York,Electronics,1919.0,490,0,Cash
+632,2023-07-01,Chicago,Clothing,376.0,4,10,Cash
+633,2023-06-16,Los Angeles,Electronics,1561.0,323,5,Credit Card
+634,2023-04-01,New York,Electronics,1230.0,290,10,Credit Card
+635,2023-07-21,New York,Electronics,1781.0,441,10,Credit Card
+636,2023-12-12,Chicago,Electronics,519.0,433,15,Credit Card
+637,2023-01-19,Los Angeles,Electronics,710.0,471,0,PayPal
+638,2023-02-08,Chicago,Electronics,1552.0,181,10,PayPal
+639,2023-05-06,Los Angeles,Electronics,474.0,248,20,Credit Card
+640,2023-06-22,Los Angeles,Clothing,172.0,116,20,Cash
+641,2023-05-21,Los Angeles,Electronics,unknown,279,15,PayPal
+642,2023-08-30,New York,Electronics,1153.0,365,0,Cash
+643,2023-08-08,Chicago,Clothing,1311.0,69,0,Gift Card
+644,2023-05-06,Chicago,Clothing,1487.0,351,20,Cash
+645,2023-02-27,Los Angeles,Clothing,1989.0,254,5,Credit Card
+646,2023-05-28,New York,Electronics,unknown,181,15,Gift Card
+647,2023-11-13,New York,Home Goods,1574.0,318,15,PayPal
+648,2023-12-27,Chicago,Home Goods,294.0,169,20,PayPal
+649,2023-01-01,New York,Clothing,1279.0,313,20,Gift Card
+650,2023-12-14,New York,Home Goods,1295.0,249,5,Cash
+651,2023-07-09,Los Angeles,Clothing,946.0,188,5,PayPal
+652,2023-07-10,New York,Electronics,1164.0,54,0,Credit Card
+653,2023-11-08,Los Angeles,Home Goods,1186.0,326,15,Gift Card
+654,2023-04-27,Chicago,Electronics,122.0,357,15,Credit Card
+655,2023-05-14,New York,Home Goods,459.0,313,20,Gift Card
+656,2023-02-27,Chicago,Electronics,1198.0,138,0,PayPal
+657,2023-02-13,Chicago,Home Goods,,168,15,Cash
+658,2023-06-22,New York,Electronics,771.0,391,0,Gift Card
+659,2023-06-09,New York,Electronics,1948.0,103,0,Gift Card
+660,2023-06-22,Chicago,Home Goods,1241.0,422,20,Credit Card
+661,2023-11-13,New York,Electronics,1735.0,85,0,PayPal
+662,2023-10-30,Los Angeles,Electronics,1503.0,317,5,Credit Card
+663,2023-05-29,Los Angeles,Electronics,778.0,212,5,PayPal
+664,2023-03-21,New York,Home Goods,1413.0,3,10,Credit Card
+665,2023-08-01,Chicago,Home Goods,539.0,384,20,Gift Card
+666,2023-07-22,New York,Electronics,1791.0,179,10,Credit Card
+667,2023-09-09,New York,Electronics,1032.0,342,5,Cash
+668,2023-08-17,Chicago,Home Goods,,303,10,PayPal
+669,2023-06-13,Chicago,Home Goods,1319.0,452,20,PayPal
+670,2023-08-15,Los Angeles,Electronics,520.0,476,20,Gift Card
+671,2023-05-27,Chicago,Electronics,1691.0,332,0,PayPal
+672,2023-01-20,Los Angeles,Electronics,932.0,38,15,Cash
+673,2023-02-16,Chicago,Clothing,unknown,499,0,Credit Card
+674,2023-08-21,New York,Home Goods,658.0,420,20,Gift Card
+675,2023-11-01,Los Angeles,Clothing,1271.0,239,5,Cash
+676,2023-01-14,Los Angeles,Home Goods,1910.0,169,5,PayPal
+677,2023-05-23,Los Angeles,Home Goods,1792.0,453,0,PayPal
+678,2023-01-01,New York,Home Goods,1325.0,397,20,Cash
+679,2023-02-23,New York,Home Goods,1567.0,343,5,Credit Card
+680,2023-09-16,New York,Home Goods,1013.0,314,20,Credit Card
+681,2023-05-24,New York,Home Goods,1542.0,306,5,Gift Card
+682,2023-01-12,New York,Home Goods,1550.0,30,20,PayPal
+683,2023-11-26,Los Angeles,Clothing,1106.0,190,10,Cash
+684,2023-08-12,New York,Electronics,,357,20,Credit Card
+685,2023-09-29,Los Angeles,Electronics,1598.0,25,20,Gift Card
+686,2023-12-24,New York,Clothing,225.0,112,0,PayPal
+687,2023-06-05,Chicago,Clothing,494.0,411,10,PayPal
+688,2023-01-08,Los Angeles,Clothing,,435,15,Gift Card
+689,2023-05-02,Chicago,Clothing,,206,0,Gift Card
+690,2023-12-14,Los Angeles,Home Goods,1929.0,185,15,Credit Card
+691,2023-06-13,Chicago,Electronics,675.0,382,5,Cash
+692,2023-03-31,New York,Home Goods,424.0,496,15,PayPal
+693,2023-05-16,New York,Electronics,1515.0,379,20,Cash
+694,2023-07-05,New York,Electronics,1029.0,47,15,PayPal
+695,2023-11-12,Los Angeles,Clothing,1811.0,374,0,PayPal
+696,2023-06-27,Chicago,Home Goods,1751.0,228,0,Cash
+697,2023-01-28,New York,Clothing,1563.0,39,15,Gift Card
+698,2023-08-08,Chicago,Home Goods,1327.0,16,0,Credit Card
+699,2023-12-23,Chicago,Electronics,1609.0,22,0,PayPal
+700,2023-02-10,New York,Clothing,,213,15,Gift Card
+701,2023-08-16,New York,Clothing,1154.0,310,10,PayPal
+702,2023-07-11,Chicago,Electronics,1511.0,149,10,Credit Card
+703,2023-05-25,New York,Electronics,1748.0,456,5,PayPal
+704,2023-07-20,New York,Electronics,1557.0,241,0,Credit Card
+705,2023-07-31,New York,Clothing,936.0,272,15,Credit Card
+706,2023-08-08,Los Angeles,Home Goods,1025.0,59,0,PayPal
+707,2023-08-28,Chicago,Clothing,1499.0,287,20,PayPal
+708,2023-02-15,Chicago,Home Goods,1467.0,426,0,Credit Card
+709,2023-02-04,Los Angeles,Clothing,542.0,202,0,Gift Card
+710,2023-09-10,Chicago,Clothing,1702.0,32,10,Cash
+711,2023-03-23,New York,Electronics,174.0,443,15,Credit Card
+712,2023-09-13,Chicago,Home Goods,656.0,162,0,PayPal
+713,2023-07-16,New York,Clothing,1895.0,255,10,PayPal
+714,2023-10-30,Los Angeles,Clothing,1789.0,254,5,Gift Card
+715,2023-01-10,New York,Electronics,1278.0,9,10,Cash
+716,2023-11-08,Chicago,Electronics,1553.0,465,10,Credit Card
+717,2023-10-13,Chicago,Home Goods,462.0,139,10,Credit Card
+718,2023-08-30,Chicago,Clothing,547.0,480,0,Cash
+719,2023-09-08,Los Angeles,Home Goods,1357.0,10,0,Credit Card
+720,2023-12-31,Los Angeles,Clothing,1686.0,214,5,Cash
+721,2023-01-05,Chicago,Home Goods,1941.0,273,20,PayPal
+722,2023-04-29,New York,Electronics,361.0,324,20,Cash
+723,2023-10-16,Los Angeles,Clothing,1950.0,48,20,Credit Card
+724,2023-03-06,Chicago,Home Goods,224.0,436,5,Cash
+725,2023-05-26,Chicago,Electronics,,111,20,Gift Card
+726,2023-08-12,Los Angeles,Electronics,344.0,153,20,PayPal
+727,2023-08-27,Los Angeles,Home Goods,641.0,123,10,PayPal
+728,2023-06-26,Los Angeles,Clothing,584.0,405,0,Cash
+729,2023-09-24,New York,Clothing,221.0,357,0,Credit Card
+730,2023-12-07,New York,Electronics,,102,10,Gift Card
+731,2023-10-09,Chicago,Clothing,1672.0,241,10,PayPal
+732,2023-03-04,Los Angeles,Clothing,269.0,321,10,PayPal
+733,2023-08-05,New York,Clothing,223.0,191,0,Credit Card
+734,2023-12-08,Los Angeles,Electronics,1992.0,217,20,Credit Card
+735,2023-11-11,Chicago,Home Goods,,51,10,Gift Card
+736,2023-10-10,New York,Clothing,1210.0,292,5,Cash
+737,2023-06-26,New York,Electronics,745.0,81,10,Credit Card
+738,2023-04-08,New York,Electronics,1831.0,489,15,Cash
+739,2023-04-15,Chicago,Home Goods,885.0,383,10,Gift Card
+740,2023-04-09,Los Angeles,Clothing,300.0,88,0,Cash
+741,2023-11-07,New York,Clothing,468.0,194,10,PayPal
+742,2023-01-06,Chicago,Home Goods,896.0,104,15,Cash
+743,2023-07-16,Los Angeles,Home Goods,176.0,271,5,Gift Card
+744,2023-12-17,Chicago,Electronics,158.0,96,20,Gift Card
+745,2023-05-13,Los Angeles,Electronics,530.0,423,10,Gift Card
+746,2023-12-24,Chicago,Home Goods,737.0,379,15,Cash
+747,2023-09-16,Los Angeles,Clothing,,198,15,PayPal
+748,2023-01-23,New York,Electronics,208.0,1,5,Credit Card
+749,2023-02-22,Los Angeles,Electronics,1859.0,495,0,PayPal
+750,2023-06-14,Chicago,Clothing,1107.0,407,10,Cash
+751,2023-07-21,Chicago,Electronics,1401.0,378,15,Cash
+752,2023-03-24,Los Angeles,Clothing,167.0,167,5,Credit Card
+753,2023-05-25,New York,Clothing,unknown,126,20,Cash
+754,2023-03-26,New York,Clothing,1288.0,313,15,Gift Card
+755,2023-03-19,Los Angeles,Home Goods,1612.0,81,5,Gift Card
+756,2023-01-01,Los Angeles,Home Goods,404.0,418,0,Gift Card
+757,2023-02-20,Chicago,Home Goods,773.0,251,0,Gift Card
+758,2023-06-22,New York,Clothing,464.0,169,15,Gift Card
+759,2023-07-24,Los Angeles,Clothing,1977.0,477,15,Cash
+760,2023-09-17,New York,Home Goods,,73,10,Credit Card
+761,2023-10-15,Los Angeles,Electronics,1502.0,141,5,Credit Card
+762,2023-02-03,Los Angeles,Clothing,442.0,70,15,Gift Card
+763,2023-12-14,New York,Electronics,1046.0,262,10,Cash
+764,2023-04-05,Los Angeles,Electronics,998.0,340,10,PayPal
+765,2023-03-13,Los Angeles,Clothing,1677.0,308,15,PayPal
+766,2023-02-08,Chicago,Clothing,1477.0,245,0,Cash
+767,2023-06-03,Los Angeles,Electronics,1539.0,3,5,Gift Card
+768,2023-09-07,Los Angeles,Electronics,1232.0,337,5,Credit Card
+769,2023-06-11,Los Angeles,Home Goods,1686.0,63,0,Cash
+770,2023-04-28,Chicago,Home Goods,861.0,49,15,PayPal
+771,2023-09-16,New York,Clothing,1620.0,76,5,PayPal
+772,2023-11-02,Chicago,Home Goods,440.0,368,15,PayPal
+773,2023-09-25,Chicago,Home Goods,1041.0,175,15,Gift Card
+774,2023-02-23,New York,Home Goods,482.0,109,10,PayPal
+775,2023-08-24,Chicago,Home Goods,,183,0,Cash
+776,2023-08-10,New York,Electronics,1656.0,192,15,Cash
+777,2023-09-08,Chicago,Clothing,399.0,65,20,PayPal
+778,2023-11-09,New York,Home Goods,,337,0,Cash
+779,2023-04-22,Los Angeles,Electronics,458.0,451,5,PayPal
+780,2023-09-12,Chicago,Electronics,935.0,474,10,PayPal
+781,2023-10-30,Chicago,Electronics,1622.0,271,5,Credit Card
+782,2023-07-26,Chicago,Home Goods,1508.0,100,5,Gift Card
+783,2023-08-17,Chicago,Home Goods,1727.0,32,0,Gift Card
+784,2023-12-07,Los Angeles,Clothing,unknown,352,5,Credit Card
+785,2023-03-07,Chicago,Home Goods,1760.0,128,15,Credit Card
+786,2023-03-16,Los Angeles,Home Goods,582.0,452,5,Gift Card
+787,2023-04-13,Los Angeles,Electronics,1008.0,402,10,PayPal
+788,2023-07-11,Los Angeles,Clothing,1234.0,369,10,PayPal
+789,2023-09-09,Los Angeles,Home Goods,965.0,339,20,Gift Card
+790,2023-08-14,New York,Home Goods,238.0,43,10,PayPal
+791,2023-10-21,New York,Electronics,1095.0,372,5,Credit Card
+792,2023-11-02,Chicago,Electronics,534.0,419,10,PayPal
+793,2023-04-08,New York,Home Goods,608.0,488,0,PayPal
+794,2023-12-04,New York,Clothing,372.0,78,10,Cash
+795,2023-10-13,Chicago,Clothing,1222.0,314,15,Cash
+796,2023-12-01,Chicago,Electronics,1887.0,289,0,Cash
+797,2023-12-13,Chicago,Electronics,1973.0,270,20,PayPal
+798,2023-11-04,New York,Home Goods,,162,15,Gift Card
+799,2023-09-06,New York,Electronics,1337.0,189,5,Credit Card
+800,2023-06-15,Chicago,Home Goods,1884.0,247,5,PayPal
+801,2023-12-01,Los Angeles,Clothing,1787.0,388,5,Gift Card
+802,2023-01-30,Chicago,Clothing,861.0,216,15,PayPal
+803,2023-09-04,Los Angeles,Home Goods,886.0,315,15,Credit Card
+804,2023-04-16,Los Angeles,Electronics,264.0,413,15,PayPal
+805,2023-02-20,Chicago,Clothing,1098.0,339,0,Credit Card
+806,2023-03-22,Chicago,Electronics,1976.0,390,0,PayPal
+807,2023-05-13,Chicago,Clothing,619.0,377,5,Credit Card
+808,2023-10-12,New York,Home Goods,1407.0,481,10,PayPal
+809,2023-05-18,Los Angeles,Home Goods,,433,5,Credit Card
+810,2023-07-03,New York,Home Goods,756.0,168,20,Cash
+811,2023-11-26,New York,Clothing,712.0,339,0,PayPal
+812,2023-09-30,Chicago,Electronics,263.0,193,15,PayPal
+813,2023-12-06,New York,Electronics,1782.0,453,0,Gift Card
+814,2023-03-10,Chicago,Electronics,163.0,283,15,Gift Card
+815,2023-02-03,Los Angeles,Clothing,1214.0,336,20,Credit Card
+816,2023-09-19,Chicago,Clothing,1240.0,390,20,PayPal
+817,2023-02-22,New York,Clothing,1989.0,488,0,Credit Card
+818,2023-07-24,New York,Clothing,,13,15,Cash
+819,2023-05-06,Chicago,Clothing,1945.0,240,20,Gift Card
+820,2023-08-23,Chicago,Electronics,1808.0,320,5,Credit Card
+821,2023-02-12,New York,Clothing,1682.0,446,5,Credit Card
+822,2023-08-28,Los Angeles,Clothing,1263.0,483,15,Gift Card
+823,2023-04-21,Los Angeles,Electronics,345.0,147,0,PayPal
+824,2023-09-06,Chicago,Clothing,1784.0,204,20,Credit Card
+825,2023-05-31,Los Angeles,Electronics,1881.0,80,0,Gift Card
+826,2023-07-02,New York,Electronics,494.0,379,5,PayPal
+827,2023-12-02,Chicago,Home Goods,1610.0,43,20,Cash
+828,2023-04-05,New York,Home Goods,unknown,458,0,Gift Card
+829,2023-01-08,New York,Home Goods,1640.0,89,10,Credit Card
+830,2023-12-26,Los Angeles,Home Goods,1076.0,148,15,Cash
+831,2023-07-03,Chicago,Clothing,1307.0,95,15,PayPal
+832,2023-10-08,Chicago,Home Goods,1143.0,452,10,PayPal
+833,2023-07-14,Los Angeles,Electronics,657.0,428,5,Gift Card
+834,2023-12-18,New York,Clothing,1117.0,151,20,Gift Card
+835,2023-07-14,New York,Home Goods,1647.0,2,15,Gift Card
+836,2023-06-04,New York,Electronics,,376,10,PayPal
+837,2023-04-03,New York,Clothing,1652.0,22,10,Cash
+838,2023-06-09,Chicago,Clothing,982.0,371,5,PayPal
+839,2023-03-02,Chicago,Home Goods,246.0,313,5,Credit Card
+840,2023-05-02,Los Angeles,Clothing,765.0,485,0,PayPal
+841,2023-02-20,Los Angeles,Electronics,1427.0,328,15,Credit Card
+842,2023-10-04,Chicago,Clothing,719.0,7,0,Cash
+843,2023-01-05,Chicago,Electronics,1871.0,206,10,Gift Card
+844,2023-04-02,New York,Clothing,919.0,440,20,Gift Card
+845,2023-06-19,New York,Home Goods,963.0,375,20,PayPal
+846,2023-11-13,Los Angeles,Electronics,681.0,451,5,Gift Card
+847,2023-01-22,Chicago,Clothing,1122.0,114,20,Cash
+848,2023-11-22,Los Angeles,Clothing,794.0,272,20,Gift Card
+849,2023-01-01,Chicago,Clothing,1885.0,83,20,PayPal
+850,2023-05-13,New York,Electronics,1351.0,179,10,Cash
+851,2023-08-21,Los Angeles,Electronics,1225.0,210,20,Credit Card
+852,2023-01-12,Los Angeles,Electronics,,500,20,PayPal
+853,2023-12-12,Chicago,Home Goods,,464,20,Credit Card
+854,2023-02-15,New York,Home Goods,1339.0,328,0,Cash
+855,2023-02-03,Los Angeles,Electronics,506.0,124,10,PayPal
+856,2023-03-19,New York,Clothing,498.0,481,5,PayPal
+857,2023-08-06,Los Angeles,Home Goods,814.0,113,0,Cash
+858,2023-10-28,New York,Electronics,unknown,12,15,Gift Card
+859,2023-03-14,Chicago,Clothing,860.0,126,10,PayPal
+860,2023-10-09,Los Angeles,Home Goods,598.0,53,10,PayPal
+861,2023-09-06,Los Angeles,Clothing,1877.0,331,15,Credit Card
+862,2023-02-16,New York,Clothing,1588.0,389,15,Gift Card
+863,2023-05-01,New York,Clothing,1814.0,283,15,Credit Card
+864,2023-08-02,Los Angeles,Clothing,1073.0,140,5,Credit Card
+865,2023-08-27,Chicago,Home Goods,1854.0,401,20,Gift Card
+866,2023-02-25,New York,Home Goods,181.0,390,10,Gift Card
+867,2023-12-16,New York,Home Goods,703.0,97,20,Cash
+868,2023-04-17,New York,Electronics,1810.0,5,20,Gift Card
+869,2023-11-15,Los Angeles,Home Goods,1874.0,57,15,PayPal
+870,2023-02-17,Los Angeles,Clothing,871.0,412,5,Gift Card
+871,2023-03-02,Los Angeles,Home Goods,unknown,334,0,Cash
+872,2023-12-03,Los Angeles,Clothing,464.0,69,5,Cash
+873,2023-01-26,Chicago,Electronics,262.0,118,20,Cash
+874,2023-10-19,Chicago,Clothing,1171.0,376,5,Gift Card
+875,2023-09-14,Los Angeles,Clothing,610.0,59,15,Gift Card
+876,2023-01-08,Chicago,Clothing,1452.0,33,0,Credit Card
+877,2023-04-23,New York,Electronics,1963.0,318,15,Credit Card
+878,2023-12-21,New York,Home Goods,,50,0,PayPal
+879,2023-09-10,New York,Home Goods,1040.0,368,20,Credit Card
+880,2023-06-29,Los Angeles,Electronics,1972.0,489,0,PayPal
+881,2023-07-26,New York,Clothing,436.0,19,0,Cash
+882,2023-10-30,Chicago,Home Goods,980.0,214,0,Credit Card
+883,2023-05-07,Los Angeles,Electronics,836.0,197,5,Gift Card
+884,2023-02-25,Chicago,Home Goods,,379,5,Credit Card
+885,2023-08-02,New York,Electronics,,450,20,PayPal
+886,2023-01-14,New York,Clothing,246.0,478,0,Credit Card
+887,2023-01-28,New York,Home Goods,1698.0,47,10,Cash
+888,2023-03-19,Los Angeles,Electronics,1929.0,167,20,Gift Card
+889,2023-08-04,Chicago,Home Goods,1446.0,452,0,PayPal
+890,2023-12-31,Los Angeles,Home Goods,542.0,289,0,Gift Card
+891,2023-06-03,Los Angeles,Home Goods,936.0,141,5,Gift Card
+892,2023-01-14,New York,Home Goods,,84,20,PayPal
+893,2023-07-06,Los Angeles,Electronics,1042.0,182,0,Gift Card
+894,2023-11-08,Los Angeles,Clothing,1617.0,391,0,Gift Card
+895,2023-01-07,New York,Electronics,unknown,79,20,Credit Card
+896,2023-01-03,Los Angeles,Electronics,386.0,215,10,Gift Card
+897,2023-04-21,New York,Electronics,819.0,14,20,Gift Card
+898,2023-08-26,New York,Clothing,1237.0,215,20,Gift Card
+899,2023-12-29,New York,Home Goods,579.0,403,10,Gift Card
+900,2023-08-27,New York,Home Goods,121.0,128,20,PayPal
+901,2023-10-01,Los Angeles,Home Goods,1472.0,310,0,Cash
+902,2023-10-21,New York,Clothing,1849.0,477,20,Credit Card
+903,2023-08-15,New York,Home Goods,unknown,248,10,Gift Card
+904,2023-01-15,Los Angeles,Clothing,1958.0,404,15,Gift Card
+905,2023-07-11,Los Angeles,Home Goods,,29,20,PayPal
+906,2023-04-29,Chicago,Home Goods,,280,5,Cash
+907,2023-01-28,Los Angeles,Electronics,,338,0,Gift Card
+908,2023-07-21,Los Angeles,Clothing,419.0,319,0,PayPal
+909,2023-02-08,Chicago,Electronics,225.0,202,5,Credit Card
+910,2023-09-30,Los Angeles,Electronics,376.0,361,5,Credit Card
+911,2023-08-19,Los Angeles,Electronics,1327.0,57,20,Gift Card
+912,2023-03-27,Los Angeles,Clothing,293.0,392,5,Gift Card
+913,2023-05-06,Los Angeles,Clothing,unknown,218,15,Cash
+914,2023-10-27,Chicago,Home Goods,1787.0,62,10,Cash
+915,2023-01-25,Los Angeles,Electronics,1670.0,157,5,Gift Card
+916,2023-05-25,Los Angeles,Home Goods,795.0,202,5,PayPal
+917,2023-01-13,Chicago,Electronics,,17,15,Cash
+918,2023-07-31,New York,Clothing,156.0,322,0,Gift Card
+919,2023-01-25,Chicago,Clothing,1857.0,6,0,Cash
+920,2023-03-09,New York,Clothing,,58,20,Gift Card
+921,2023-03-08,Chicago,Electronics,1286.0,325,15,Credit Card
+922,2023-08-21,Chicago,Clothing,unknown,412,10,Gift Card
+923,2023-04-19,Los Angeles,Electronics,1493.0,318,10,Credit Card
+924,2023-05-26,New York,Home Goods,363.0,169,15,Cash
+925,2023-04-21,Los Angeles,Electronics,893.0,453,10,Gift Card
+926,2023-08-16,New York,Home Goods,212.0,82,0,Cash
+927,2023-04-21,Chicago,Electronics,1611.0,474,10,Credit Card
+928,2023-02-03,Chicago,Home Goods,1450.0,468,10,Gift Card
+929,2023-04-21,New York,Clothing,641.0,425,15,Cash
+930,2023-09-21,Los Angeles,Home Goods,746.0,433,15,Credit Card
+931,2023-08-24,Los Angeles,Clothing,678.0,219,10,Cash
+932,2023-03-24,Los Angeles,Clothing,1188.0,177,5,PayPal
+933,2023-02-11,Los Angeles,Home Goods,1415.0,204,15,Credit Card
+934,2023-04-11,Chicago,Electronics,124.0,71,20,Credit Card
+935,2023-01-06,Chicago,Electronics,1672.0,387,20,Credit Card
+936,2023-06-29,Chicago,Electronics,100.0,266,0,Gift Card
+937,2023-10-09,Chicago,Electronics,,98,10,Gift Card
+938,2023-11-16,Chicago,Electronics,1672.0,345,5,Gift Card
+939,2023-08-14,Los Angeles,Clothing,240.0,291,0,PayPal
+940,2023-11-11,Los Angeles,Electronics,1867.0,208,10,PayPal
+941,2023-12-31,Los Angeles,Clothing,,2,15,Credit Card
+942,2023-08-17,Los Angeles,Clothing,287.0,124,20,PayPal
+943,2023-10-16,Chicago,Clothing,1251.0,280,5,Cash
+944,2023-05-30,Chicago,Home Goods,300.0,74,20,Credit Card
+945,2023-10-04,Chicago,Home Goods,1250.0,166,15,Credit Card
+946,2023-07-17,New York,Clothing,356.0,22,10,Cash
+947,2023-03-11,Los Angeles,Home Goods,unknown,154,15,Credit Card
+948,2023-04-22,Los Angeles,Electronics,unknown,427,15,PayPal
+949,2023-01-04,Chicago,Electronics,293.0,439,20,Gift Card
+950,2023-12-16,Los Angeles,Clothing,802.0,295,5,Cash
+951,2023-11-27,Los Angeles,Electronics,1227.0,219,15,PayPal
+952,2023-11-14,Chicago,Clothing,1658.0,157,20,Cash
+953,2023-12-16,New York,Clothing,,495,5,Cash
+954,2023-04-05,New York,Electronics,901.0,230,10,Credit Card
+955,2023-06-01,New York,Home Goods,1041.0,20,10,Credit Card
+956,2023-11-07,Chicago,Electronics,1507.0,475,0,PayPal
+957,2023-05-17,Los Angeles,Electronics,1383.0,41,20,Cash
+958,2023-09-04,Chicago,Clothing,,438,5,Credit Card
+959,2023-08-31,Chicago,Clothing,,148,15,Credit Card
+960,2023-01-31,Los Angeles,Clothing,unknown,108,10,Cash
+961,2023-02-09,New York,Clothing,1478.0,403,5,PayPal
+962,2023-08-17,New York,Home Goods,1707.0,84,20,PayPal
+963,2023-02-05,Chicago,Home Goods,1894.0,483,0,Cash
+964,2023-08-11,New York,Home Goods,1009.0,367,10,PayPal
+965,2023-01-06,Chicago,Clothing,,322,5,Credit Card
+966,2023-11-18,Chicago,Clothing,1808.0,414,5,Cash
+967,2023-08-08,Los Angeles,Clothing,1413.0,309,5,Credit Card
+968,2023-03-16,Los Angeles,Home Goods,144.0,290,20,Gift Card
+969,2023-01-04,Los Angeles,Clothing,unknown,406,20,Gift Card
+970,2023-12-01,Chicago,Electronics,182.0,323,20,PayPal
+971,2023-05-14,Los Angeles,Electronics,1246.0,134,15,Gift Card
+972,2023-04-28,New York,Clothing,457.0,207,5,Credit Card
+973,2023-04-04,New York,Electronics,unknown,283,10,Gift Card
+974,2023-03-03,Chicago,Electronics,,266,20,Credit Card
+975,2023-07-13,Chicago,Home Goods,unknown,73,20,PayPal
+976,2023-12-01,Los Angeles,Clothing,1780.0,481,5,PayPal
+977,2023-07-22,Chicago,Clothing,474.0,352,20,Credit Card
+978,2023-01-26,Chicago,Home Goods,261.0,48,15,Gift Card
+979,2023-06-22,New York,Electronics,1869.0,326,15,PayPal
+980,2023-10-27,New York,Electronics,1503.0,233,20,Cash
+981,2023-05-13,Los Angeles,Clothing,1779.0,443,5,PayPal
+982,2023-11-22,Chicago,Electronics,1481.0,100,5,Gift Card
+983,2023-04-28,Chicago,Home Goods,1311.0,59,5,Cash
+984,2023-11-20,New York,Home Goods,unknown,258,0,Gift Card
+985,2023-10-02,Chicago,Clothing,549.0,413,20,Credit Card
+986,2023-07-31,New York,Home Goods,1597.0,452,5,Cash
+987,2023-08-13,Los Angeles,Home Goods,1136.0,65,15,Gift Card
+988,2023-01-20,New York,Clothing,283.0,83,10,Cash
+989,2023-04-23,Chicago,Home Goods,210.0,154,10,Gift Card
+990,2023-05-20,Los Angeles,Home Goods,607.0,473,5,Cash
+991,2023-02-16,New York,Home Goods,1413.0,266,10,Gift Card
+992,2023-01-01,New York,Electronics,394.0,309,10,Credit Card
+993,2023-03-31,Los Angeles,Clothing,1574.0,79,0,Cash
+994,2023-05-22,Los Angeles,Clothing,1003.0,315,15,Cash
+995,2023-11-16,New York,Clothing,1338.0,150,15,Cash
+996,2023-02-07,Chicago,Electronics,1073.0,435,0,Cash
+997,2023-10-20,New York,Electronics,731.0,48,0,Credit Card
+998,2023-05-19,Los Angeles,Clothing,1690.0,405,10,Cash
+999,2023-12-22,New York,Electronics,unknown,379,20,PayPal
+1000,2023-11-29,Los Angeles,Clothing,1753.0,248,10,Credit Card

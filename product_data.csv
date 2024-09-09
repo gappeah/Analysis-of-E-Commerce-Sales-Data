@@ -1,0 +1,301 @@
+product_id,product_category,product_name,product_price,stock_available
+1,Electronics,Product 1,301,66
+2,Electronics,Product 2,297,73
+3,Clothing,Product 3,235,46
+4,Electronics,Product 4,73,55
+5,Home Goods,Product 5,464,22
+6,Home Goods,Product 6,435,17
+7,Home Goods,Product 7,57,0
+8,Electronics,Product 8,211,34
+9,Clothing,Product 9,346,63
+10,Home Goods,Product 10,423,57
+11,Electronics,Product 11,414,94
+12,Home Goods,Product 12,69,58
+13,Home Goods,Product 13,406,0
+14,Clothing,Product 14,266,2
+15,Home Goods,Product 15,74,66
+16,Clothing,Product 16,248,36
+17,Electronics,Product 17,298,82
+18,Home Goods,Product 18,47,28
+19,Electronics,Product 19,34,88
+20,Electronics,Product 20,419,32
+21,Electronics,Product 21,470,99
+22,Home Goods,Product 22,68,60
+23,Clothing,Product 23,485,92
+24,Home Goods,Product 24,426,89
+25,Electronics,Product 25,366,3
+26,Clothing,Product 26,392,13
+27,Electronics,Product 27,306,90
+28,Clothing,Product 28,167,32
+29,Home Goods,Product 29,66,21
+30,Clothing,Product 30,442,47
+31,Home Goods,Product 31,57,2
+32,Electronics,Product 32,337,86
+33,Clothing,Product 33,442,84
+34,Electronics,Product 34,440,22
+35,Clothing,Product 35,65,67
+36,Home Goods,Product 36,74,20
+37,Clothing,Product 37,277,42
+38,Clothing,Product 38,78,94
+39,Home Goods,Product 39,225,84
+40,Home Goods,Product 40,399,25
+41,Home Goods,Product 41,98,40
+42,Clothing,Product 42,458,98
+43,Electronics,Product 43,290,37
+44,Clothing,Product 44,266,87
+45,Clothing,Product 45,169,10
+46,Electronics,Product 46,499,28
+47,Home Goods,Product 47,243,59
+48,Clothing,Product 48,140,66
+49,Electronics,Product 49,58,64
+50,Home Goods,Product 50,156,60
+51,Home Goods,Product 51,325,18
+52,Clothing,Product 52,422,45
+53,Home Goods,Product 53,443,48
+54,Home Goods,Product 54,11,21
+55,Electronics,Product 55,338,77
+56,Electronics,Product 56,449,56
+57,Home Goods,Product 57,154,13
+58,Electronics,Product 58,453,43
+59,Home Goods,Product 59,375,15
+60,Clothing,Product 60,429,96
+61,Electronics,Product 61,70,76
+62,Home Goods,Product 62,282,11
+63,Home Goods,Product 63,58,54
+64,Electronics,Product 64,341,50
+65,Electronics,Product 65,453,38
+66,Clothing,Product 66,413,32
+67,Home Goods,Product 67,443,32
+68,Clothing,Product 68,140,28
+69,Clothing,Product 69,52,68
+70,Clothing,Product 70,66,69
+71,Electronics,Product 71,59,30
+72,Clothing,Product 72,461,79
+73,Electronics,Product 73,474,30
+74,Electronics,Product 74,187,88
+75,Clothing,Product 75,302,45
+76,Clothing,Product 76,55,96
+77,Home Goods,Product 77,179,76
+78,Clothing,Product 78,280,51
+79,Home Goods,Product 79,426,9
+80,Clothing,Product 80,345,87
+81,Clothing,Product 81,148,73
+82,Clothing,Product 82,256,40
+83,Clothing,Product 83,157,94
+84,Home Goods,Product 84,239,76
+85,Home Goods,Product 85,289,2
+86,Clothing,Product 86,134,58
+87,Clothing,Product 87,201,51
+88,Home Goods,Product 88,383,33
+89,Electronics,Product 89,89,48
+90,Electronics,Product 90,103,27
+91,Electronics,Product 91,235,82
+92,Home Goods,Product 92,74,86
+93,Home Goods,Product 93,97,95
+94,Electronics,Product 94,97,12
+95,Electronics,Product 95,210,96
+96,Clothing,Product 96,223,97
+97,Home Goods,Product 97,213,96
+98,Home Goods,Product 98,410,68
+99,Electronics,Product 99,391,66
+100,Electronics,Product 100,98,60
+101,Home Goods,Product 101,485,59
+102,Clothing,Product 102,70,70
+103,Electronics,Product 103,280,23
+104,Home Goods,Product 104,103,62
+105,Home Goods,Product 105,316,85
+106,Clothing,Product 106,36,60
+107,Clothing,Product 107,223,22
+108,Electronics,Product 108,83,29
+109,Electronics,Product 109,70,59
+110,Electronics,Product 110,195,17
+111,Home Goods,Product 111,40,95
+112,Electronics,Product 112,228,55
+113,Home Goods,Product 113,21,52
+114,Electronics,Product 114,311,6
+115,Clothing,Product 115,424,96
+116,Clothing,Product 116,41,68
+117,Home Goods,Product 117,169,91
+118,Clothing,Product 118,498,71
+119,Home Goods,Product 119,246,78
+120,Home Goods,Product 120,236,51
+121,Clothing,Product 121,190,3
+122,Home Goods,Product 122,326,33
+123,Clothing,Product 123,55,68
+124,Electronics,Product 124,350,32
+125,Electronics,Product 125,467,68
+126,Clothing,Product 126,89,37
+127,Clothing,Product 127,144,97
+128,Clothing,Product 128,269,25
+129,Clothing,Product 129,484,0
+130,Electronics,Product 130,317,3
+131,Home Goods,Product 131,256,38
+132,Home Goods,Product 132,482,53
+133,Electronics,Product 133,168,89
+134,Home Goods,Product 134,212,32
+135,Electronics,Product 135,121,32
+136,Home Goods,Product 136,477,71
+137,Clothing,Product 137,301,19
+138,Clothing,Product 138,447,15
+139,Clothing,Product 139,319,20
+140,Electronics,Product 140,128,44
+141,Electronics,Product 141,392,89
+142,Home Goods,Product 142,26,86
+143,Home Goods,Product 143,340,81
+144,Home Goods,Product 144,423,61
+145,Electronics,Product 145,236,30
+146,Home Goods,Product 146,370,41
+147,Clothing,Product 147,495,11
+148,Home Goods,Product 148,415,64
+149,Clothing,Product 149,126,72
+150,Electronics,Product 150,52,2
+151,Clothing,Product 151,377,89
+152,Clothing,Product 152,124,8
+153,Clothing,Product 153,292,50
+154,Electronics,Product 154,46,15
+155,Electronics,Product 155,311,87
+156,Electronics,Product 156,122,77
+157,Electronics,Product 157,44,2
+158,Home Goods,Product 158,141,97
+159,Electronics,Product 159,345,96
+160,Clothing,Product 160,345,23
+161,Electronics,Product 161,478,72
+162,Home Goods,Product 162,419,12
+163,Home Goods,Product 163,386,1
+164,Home Goods,Product 164,237,70
+165,Clothing,Product 165,156,20
+166,Electronics,Product 166,131,18
+167,Electronics,Product 167,90,88
+168,Electronics,Product 168,182,46
+169,Clothing,Product 169,163,21
+170,Clothing,Product 170,159,74
+171,Home Goods,Product 171,384,32
+172,Home Goods,Product 172,67,31
+173,Electronics,Product 173,72,63
+174,Clothing,Product 174,165,84
+175,Clothing,Product 175,458,38
+176,Electronics,Product 176,437,83
+177,Electronics,Product 177,365,71
+178,Home Goods,Product 178,436,41
+179,Home Goods,Product 179,430,8
+180,Home Goods,Product 180,331,24
+181,Electronics,Product 181,410,88
+182,Electronics,Product 182,177,96
+183,Home Goods,Product 183,175,1
+184,Home Goods,Product 184,94,18
+185,Clothing,Product 185,454,19
+186,Clothing,Product 186,146,92
+187,Home Goods,Product 187,470,69
+188,Home Goods,Product 188,468,16
+189,Clothing,Product 189,198,88
+190,Home Goods,Product 190,473,67
+191,Clothing,Product 191,409,93
+192,Clothing,Product 192,388,83
+193,Clothing,Product 193,11,2
+194,Electronics,Product 194,115,86
+195,Electronics,Product 195,373,50
+196,Home Goods,Product 196,81,81
+197,Clothing,Product 197,436,25
+198,Electronics,Product 198,135,55
+199,Home Goods,Product 199,179,99
+200,Home Goods,Product 200,214,63
+201,Home Goods,Product 201,322,7
+202,Home Goods,Product 202,346,80
+203,Home Goods,Product 203,496,94
+204,Clothing,Product 204,481,36
+205,Home Goods,Product 205,204,96
+206,Clothing,Product 206,167,26
+207,Electronics,Product 207,150,44
+208,Home Goods,Product 208,284,3
+209,Electronics,Product 209,16,85
+210,Clothing,Product 210,402,89
+211,Clothing,Product 211,476,95
+212,Electronics,Product 212,63,87
+213,Home Goods,Product 213,113,98
+214,Home Goods,Product 214,351,36
+215,Electronics,Product 215,347,95
+216,Electronics,Product 216,70,70
+217,Electronics,Product 217,96,32
+218,Home Goods,Product 218,267,30
+219,Home Goods,Product 219,187,54
+220,Home Goods,Product 220,251,11
+221,Electronics,Product 221,212,10
+222,Home Goods,Product 222,40,87
+223,Clothing,Product 223,298,71
+224,Electronics,Product 224,471,31
+225,Home Goods,Product 225,89,56
+226,Electronics,Product 226,20,37
+227,Clothing,Product 227,426,59
+228,Clothing,Product 228,263,85
+229,Electronics,Product 229,393,97
+230,Electronics,Product 230,400,18
+231,Clothing,Product 231,393,83
+232,Electronics,Product 232,296,55
+233,Clothing,Product 233,185,13
+234,Clothing,Product 234,135,32
+235,Home Goods,Product 235,56,9
+236,Electronics,Product 236,215,79
+237,Electronics,Product 237,485,63
+238,Home Goods,Product 238,446,63
+239,Clothing,Product 239,116,61
+240,Electronics,Product 240,473,67
+241,Home Goods,Product 241,284,90
+242,Home Goods,Product 242,346,91
+243,Electronics,Product 243,132,42
+244,Home Goods,Product 244,483,79
+245,Clothing,Product 245,143,58
+246,Home Goods,Product 246,116,51
+247,Clothing,Product 247,314,96
+248,Clothing,Product 248,338,18
+249,Electronics,Product 249,59,20
+250,Home Goods,Product 250,346,21
+251,Clothing,Product 251,104,8
+252,Clothing,Product 252,277,8
+253,Home Goods,Product 253,32,72
+254,Clothing,Product 254,63,26
+255,Home Goods,Product 255,383,16
+256,Electronics,Product 256,263,43
+257,Clothing,Product 257,462,44
+258,Clothing,Product 258,244,7
+259,Home Goods,Product 259,493,79
+260,Home Goods,Product 260,68,17
+261,Home Goods,Product 261,173,32
+262,Home Goods,Product 262,268,0
+263,Clothing,Product 263,323,75
+264,Electronics,Product 264,225,5
+265,Electronics,Product 265,192,40
+266,Electronics,Product 266,66,54
+267,Electronics,Product 267,154,4
+268,Home Goods,Product 268,432,58
+269,Clothing,Product 269,99,79
+270,Clothing,Product 270,461,17
+271,Clothing,Product 271,320,48
+272,Home Goods,Product 272,54,81
+273,Clothing,Product 273,469,64
+274,Home Goods,Product 274,266,82
+275,Clothing,Product 275,30,53
+276,Electronics,Product 276,476,60
+277,Home Goods,Product 277,30,7
+278,Clothing,Product 278,61,2
+279,Electronics,Product 279,347,24
+280,Electronics,Product 280,180,68
+281,Electronics,Product 281,445,54
+282,Home Goods,Product 282,76,39
+283,Home Goods,Product 283,122,82
+284,Clothing,Product 284,309,81
+285,Electronics,Product 285,169,49
+286,Clothing,Product 286,275,94
+287,Clothing,Product 287,329,32
+288,Electronics,Product 288,241,17
+289,Clothing,Product 289,472,56
+290,Home Goods,Product 290,334,15
+291,Clothing,Product 291,77,79
+292,Electronics,Product 292,37,37
+293,Home Goods,Product 293,446,40
+294,Home Goods,Product 294,125,6
+295,Clothing,Product 295,60,77
+296,Clothing,Product 296,190,52
+297,Home Goods,Product 297,269,62
+298,Clothing,Product 298,88,88
+299,Electronics,Product 299,282,31
+300,Clothing,Product 300,117,37
